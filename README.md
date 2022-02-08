@@ -13,4 +13,4 @@ https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territor
 Rode o script para gerar tabelas RTA, elas serão salvas na pasta 'tabelas_excel'.
 O código está explicado no outro arquivo.
 
-O código foi testado com o pacote pandas v. 1.4 no python 3.9.
+O código foi testado com o pacote pandas 1.4 no python 3.9.
